@@ -1,0 +1,42 @@
+#container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 85%;
+    margin: 0 auto;
+}
+.product {
+    text-align: center;
+}
+h1 {
+    font-size: 60px;
+    line-height: 18px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h2 {
+    font-size: 16px;
+    line-height: 18px;
+    text-transform: uppercase;text-align: center;
+}
+h3 {
+    font-size: 14px;
+    text-align: center;
+}
+
+img {
+    width: 300px;
+}
+
+.kettir {
+    margin: 20px;
+    background-color: antiquewhite;
+}
+#inputdiv {
+    margin: 0 auto;
+    width: 30%;
+}
+input {
+    width: 100%;
+    margin: 5px 0;
+}
